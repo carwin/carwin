@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **carwin/carwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Metrics](https://metrics.lecoq.io/carwin?template=classic&repositories.affiliations=owner%2C%20contributor&languages=1&achievements=1&base.indepth=false&languages.skipped=qmk_firmware&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FChicago&config.octicon=true)
