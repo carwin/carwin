@@ -49,5 +49,5 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_skipped: qmk_firmware
           plugin_notable_types: commit
-          repositories_affiliations: owner, contributor
+          repositories_affiliations: owner
           repositories_skipped: qmk_firmware
